@@ -1,0 +1,89 @@
+1. </html>
+<head>
+<link rel="stylesheet" type="text/css" href="style.css" />
+</head>
+<body>
+ <div class="header">
+ Заголовок!!!
+ </div>
+   <div class="index">
+     <p> Содержание: </p>
+     <p> 1. item01 </p>
+     <p> 2. item02 </p>
+   </div>
+   <div class="text">
+     Здравствуйте! Наш сайт о философской концепции экзистенциализма....
+   </div>
+   <div class="spam">
+     (4)
+   </div>
+</body>
+</html>
+2. .header {
+float: left;
+position: fixed;
+width: 600px;
+height: 30px;
+}
+
+.index {
+float: left;
+position: fixed;
+margin-top: 30px;
+width: 100px;
+height: 500px;
+}
+
+.text {
+float: left;
+position: fixed;
+margin-top: 30px;
+margin-left: 100px;
+width: 600px;
+height: 30px;
+}
+
+
+.spam {
+float: right;
+position: fixed;
+margin-top: 30px;
+margin-left: 700px;
+width: 600px;
+height: 30px;
+
+}
+3..header {
+float: left;
+position: fixed;
+width: 600px;
+height: 30px;
+}
+
+.index {
+float: left;
+position: fixed;
+margin-top: 30px;
+width: 100px;
+height: 500px;
+}
+
+.text {
+float: left;
+position: fixed;
+margin-top: 30px;
+margin-left: 100px;
+width: 600px;
+height: 30px;
+}
+
+
+.spam {
+float: right;
+position: fixed;
+margin-top: 30px;
+margin-left: 700px;
+width: 600px;
+height: 30px;
+
+}
