@@ -1,0 +1,35 @@
+.header {
+float: left;
+position: fixed;
+width: 100px;
+height: 30px;
+}
+
+.index {
+float: left;
+position: fixed;
+margin-left: 300px;
+margin-top: 30px;
+width: 300px;
+height: 500px;
+}
+
+.text {
+float: left;
+position: fixed;
+margin-top: 30px;
+margin-left: 500px;
+width: 600px;
+height: 30px;
+}
+
+
+.spam {
+float: right;
+position: fixed;
+margin-top: 30px;
+margin-left: 700px;
+width: 600px;
+height: 30px;
+
+}
